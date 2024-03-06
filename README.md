@@ -4,6 +4,8 @@
 
 Welcome to the "Twitter Sentiment Analysis" project! This data science project focuses on analyzing and predicting the sentiment of tweets using machine-learning techniques. The primary goal is to classify tweets into positive, negative, or neutral sentiments, providing valuable insights into public opinion and sentiment trends on Twitter.
 
+**Explore the project directly on Google Colab:** [Twitter Sentiment Analysis](https://colab.research.google.com/drive/1GjX5aTimLorze58SbGG_85HntNXGzvwa?usp=sharing)
+
 ## Project Description
 
 Twitter (Now X) sentiment analysis is a crucial task for understanding public opinion and sentiment towards various topics, brands, or events. This project utilizes machine-learning models to classify tweets based on their sentiment polarity, helping businesses, researchers, and individuals gauge public sentiment effectively.
