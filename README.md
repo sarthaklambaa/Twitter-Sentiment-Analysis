@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Project
+# Twitter Sentiment Analysis
 
 ## Overview
 
@@ -6,7 +6,7 @@ Welcome to the "Twitter Sentiment Analysis" project! This data science project f
 
 ## Project Description
 
-Twitter sentiment analysis is a crucial task for understanding public opinion and sentiment towards various topics, brands, or events. This project utilizes machine-learning models to classify tweets based on their sentiment polarity, helping businesses, researchers, and individuals gauge public sentiment effectively.
+Twitter (Now X) sentiment analysis is a crucial task for understanding public opinion and sentiment towards various topics, brands, or events. This project utilizes machine-learning models to classify tweets based on their sentiment polarity, helping businesses, researchers, and individuals gauge public sentiment effectively.
 
 ## Dataset
 
